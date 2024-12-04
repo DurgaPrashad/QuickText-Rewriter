@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>QuickText Rewriter</title>
+  <style>
+    body {
+      width: 300px;
+      padding: 10px;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>QuickText Rewriter</h1>
+  <p>Select text on any webpage, right-click, and choose "Rewrite selected text" to get an AI-powered rewrite.</p>
+  <script src="popup.js"></script>
+</body>
+</html>
+
