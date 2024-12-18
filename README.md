@@ -1,4 +1,4 @@
-# QuickText Rewriter Chrome Extension
+# QuickText Rewriter Chrome Extension(pro)
 
 ## Overview
 
